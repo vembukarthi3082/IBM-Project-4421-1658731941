@@ -3,7 +3,7 @@ Nutrition assistant Application
 ## Nutrition assistant Application
 ## Crew Members
     
-    -Mayilraj S (Team Lead) [Assignment Link]-https://github.com/IBM-EPBL/IBM-Project-4421-1658731941/tree/main/Assignments/Mayilraj%20S%20-%20Team%20Leader
+    -Mayilraj S (Team Lead) [Assignment Link](https://github.com/IBM-EPBL/IBM-Project-4421-1658731941/tree/main/Assignments/Mayilraj%20S%20-%20Team%20Leader)
 ## Introduction
 
  Nutrition is defined as the processes by which an animal or plant takes in and utilizes food substances. Essential nutrients include protein, carbohydrate, fat, vitamins, minerals and electrolytes. Normally, 85% of daily energy use is from fat and carbohydrates and 15% from protein.   The required amounts of the essential nutrients differ by age and the state of the body, for example: physical activity, diseases present (e.g. Bones – known as osteoporosis), medications. Nutrition is essential for growth and development, health and wellbeing, eating a healthy diet contributes to preventing future illness and improving quality and length of life. 
